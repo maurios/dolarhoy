@@ -1,2 +1,2 @@
 # dolarhoy
-Chrome extension for real tiem dollar price based on dolarhoy.com iframe
+Chrome extension for real time dollar price based on dolarhoy.com iframe
